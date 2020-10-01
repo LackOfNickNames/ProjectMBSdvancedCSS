@@ -1,0 +1,53 @@
+.box1 {
+    background-color: sienna;
+    margin: 15px;
+    padding: 20px;
+    border: 20px solid greenyellow;
+    text-align: center;
+}
+
+.box2 {
+    background-color: hotpink;
+    margin: 10px;
+    padding: 4px;
+    border: 30px solid purple;
+    text-align: center;
+    height: 100px;
+    width: 150px;
+}
+.border1 {
+    border-style: outset;
+    border-width: 100px 50px ;
+    border-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: aqua; 
+    padding: 40px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
